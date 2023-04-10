@@ -1,4 +1,5 @@
 setup.py
+sphereob.py
 sphereob/__init__.py
 sphereob.egg-info/PKG-INFO
 sphereob.egg-info/SOURCES.txt
