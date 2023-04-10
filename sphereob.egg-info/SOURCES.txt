@@ -1,5 +1,3 @@
-LICENSE
-MANIFEST.in
 setup.py
 sphereob/__init__.py
 sphereob.egg-info/PKG-INFO
@@ -13,6 +11,5 @@ sphereob/GUI/sphere_overburden_gui.py
 sphereob/resources/__init__.py
 sphereob/resources/resources.py
 sphereob/utils/__init__.py
-sphereob/utils/model_plotter.py
 sphereob/utils/sphere_response.py
 sphereob/utils/tem_csv_plotter.py
